@@ -7,7 +7,9 @@
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
 <h3>Comentários :speech_balloon:</h3>
-<br>
 <p> Este projeto foi desenvolvido atravé do curso DevClub, onde pude estender o conhecimento e estilizar o mesmo.</p>
 
 <h3>Escopo :computer: :iphone:</h3>
+<br>
+<img src="https://github.com/nuunesrick/We-Care-Pet/blob/master/img/computer.png?raw=true" alt="image-projeto-computer">
+<img src="https://github.com/nuunesrick/We-Care-Pet/blob/master/img/cellphone.png?raw=true"  alt="image-projeto-cellphone">
