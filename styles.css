@@ -45,6 +45,7 @@ header {
 section {
     display: inline-block;
     margin-left: 130px;
+    margin-top: -25px;
     
  
 }
@@ -71,7 +72,7 @@ p {
     line-height: 29px;
     color: #848484;
     width: 515px;
-    margin-top: 32px;
+    margin-top: 15px;
     margin-bottom: 65px;
 }
 
